@@ -1,0 +1,15 @@
+# Virtual environment
+langgraph_env3/
+
+# Environment variables / API keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
